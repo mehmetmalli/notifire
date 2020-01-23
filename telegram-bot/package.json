@@ -1,0 +1,24 @@
+{
+	"name": "notifire",
+	"version": "1.0.0",
+	"description": "Server for the Telegram bot.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mehmetmalli/notifire.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mehmetmalli/notifire/issues"
+	},
+	"homepage": "https://github.com/mehmetmalli/notifire#readme",
+	"dependencies": {
+		"express": "^4.17.1",
+		"firebase": "^7.7.0",
+		"node-telegram-bot-api": "^0.40.0"
+	}
+}
