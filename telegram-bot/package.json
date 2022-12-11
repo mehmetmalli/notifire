@@ -17,7 +17,7 @@
 	},
 	"homepage": "https://github.com/mehmetmalli/notifire#readme",
 	"dependencies": {
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"firebase": "^7.7.0",
 		"node-telegram-bot-api": "^0.40.0"
 	}
